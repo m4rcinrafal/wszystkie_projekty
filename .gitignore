@@ -416,3 +416,32 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# =====================
+# C++ / kompilacja
+# =====================
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# =====================
+# Windows
+# =====================
+desktop.ini
+Thumbs.db
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+
+# =====================
+# Logi i tymczasowe
+# =====================
+*.log
+*.tmp
